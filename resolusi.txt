@@ -2,3 +2,4 @@ Resolusi
 - belajar python
 - r
 - cyberscurity
+e
